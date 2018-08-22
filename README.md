@@ -31,3 +31,7 @@ done
 #cleanup files
 rm -rf $TMPDIR
 ```
+
+The intial script isn't the most efficient and the PUT section will definitely take some time if you have a large library, but much better than editting tons of individual movies!
+
+Then run a mass rename from the UI or via API and enjoy!
